@@ -44,8 +44,4 @@ Future Enhancements
 
 Project Status
 
-Student prototype — demonstration version. Registration and job-posting data are not permanently stored.
-
-License
-
-This project is available under the MIT License.
+Student prototype — demonstration version. Registration and job-posting data are not permanently stored
